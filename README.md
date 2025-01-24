@@ -1,25 +1,15 @@
 # Hi there, I'm Arun 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/athlative-arun?label=Follow&style=social)](https://github.com/athlative-arun)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arunachalam-b-15a8a0269/)
 
 ## About Me
 
-🏛️ I'm a Computer Science Undergrad from BITS Pilani  
-🖥️ Love making innovative products through code  
-🥏 Playing sports and especially Ultimate Frisbee, is an escape. Watch me and my team [here](#)!  
-💼 Full Time SW Engineer I @ NCR Corp.  
-📜 I speak English, Hindi and Telugu fluently and am learning German from Duo. Add me as a friend and we can compete!  
-💬 Hit me up if you have anything interesting in mind [here](#)  
-
-- 🔭 I’m currently working on [Your Current Project](link-to-project)
-- 🌱 I’m currently learning [Technology or Skill]
-- 👯 I’m looking to collaborate on [Type of Projects]
-- 🤔 I’m looking for help with [Area where you need help]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Email Address]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+🏛️ I'm a Computer Science Undergrad from Jain University  
+💻 Love making innovative products through code  
+⚽ Apart from coding, I'm a sports enthusiast with a passion for athletics, frisbee, and handball.  
+📜 I speak English, Hindi, and Tamil fluently and am learning German from Duo  
+💬 Hit me up if you have anything interesting in mind [here](mailto:born2runarun@gmail.com)
 
 ## GitHub Stats
 
@@ -36,15 +26,13 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-
-## 📈 GitHub Activity
-
-<!-- Add your own activity graph link -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=athlative-arun&theme=dracula)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/arunachalam-b-15a8a0269/)
 - [Twitter](https://twitter.com/your-twitter-handle)
 - [Personal Website/Blog](https://your-website.com)
 
